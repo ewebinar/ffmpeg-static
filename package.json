@@ -44,7 +44,7 @@
     "url": "https://github.com/eugeneware/ffmpeg-static/issues"
   },
   "engines": {
-    "node": ">=10"
+    "node": "10"
   },
   "dependencies": {
     "@derhuerst/http-basic": "^8.2.0",
